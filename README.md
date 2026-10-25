@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jaoppb">
-    <img src="./imgs/header.png" alt="Header" width="100%" />
+    <img src="./imgs/astronaut-banner.png" alt="Header" width="100%" />
   </a>
 
   <br/>
